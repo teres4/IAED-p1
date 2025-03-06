@@ -1,5 +1,5 @@
--Simple Project in C made for Introduction to Algorithms and Data Structures
--This project manages public transport routes, where each route consists of a sequence of connections between stops.
+*Simple Project in C made for Introduction to Algorithms and Data Structures
+*This project manages public transport routes, where each route consists of a sequence of connections between stops.
 Features:
 
     Routes: Identified by a name (max 20 bytes), with a start and end stop.
